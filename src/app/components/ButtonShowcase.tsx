@@ -271,11 +271,11 @@ export default function ButtonShowcase({ contribution }: ButtonShowcaseProps) {
   return (
     <div className="relative group">
       <div 
-        className="bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg p-6 border border-gray-700 hover:border-gray-600 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/20 cursor-pointer"
+        className="bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg p-8 border border-gray-700 hover:border-gray-600 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/20 cursor-pointer min-h-[439px]"
       >
         {/* Button Preview - not clickable */}
         <div 
-          className="flex justify-center items-center min-h-[120px] mb-4 bg-gray-800/50 rounded-lg backdrop-blur-sm"
+          className="flex justify-center items-start  min-h-[120px] mb-4 bg-gray-800/50 rounded-lg backdrop-blur-sm"
           onClick={(e) => e.stopPropagation()}
         >
           {renderButton()}
