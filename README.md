@@ -2,6 +2,8 @@
 
 <div align="center">
 
+> 🎉 We're excited to have contributors like you — wishing you a fun and successful Hacktoberfest 2025! 💚
+
 ![ClickHub Banner](https://img.shields.io/badge/🎃_ClickHub-Hacktoberfest_2025-orange?style=for-the-badge&logo=git&logoColor=white)
 
 [![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-ff6b35?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.digitalocean.com/)
